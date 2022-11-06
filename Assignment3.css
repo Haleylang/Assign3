@@ -1,0 +1,57 @@
+body{background-color:#FFFFFF}
+h1{
+color: black;
+font-family: "courier", courier, Monospace;
+}
+#wrapper{
+	margin:0 auto;
+	background-color:#FFFFFF;
+}
+
+#header{
+	height:50px;
+  color:white;
+  text-align: center;
+  position: top:0; width: 100%;
+  background-color:#13294B;
+}
+
+#leftbody{
+	float:left;
+	width:869px;
+	height: 400px;
+  text-align: center;
+  Position:left:0;
+	background-color:#DBEBFF ;
+	padding:5px;
+}
+
+#rightbody{
+	float:right;
+	width:444px;
+	height:400px;
+  text-align: center;
+  color: white;
+  Position: right:0;
+	background-color:#13294B;
+  padding: 5px;
+}
+#box{
+width: 420px;
+height: 100px;
+border: 2px solid white;
+padding: 5px;
+}
+#context{
+  text-align:left;
+  height:50px;
+  background-color:white;
+  clear:both;
+  padding:2px
+}
+#bottom{
+	text-align:center;
+	height:50px;
+  background-color:#13294B;
+  padding:2px
+}
